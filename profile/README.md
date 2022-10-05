@@ -1,5 +1,5 @@
-Gwen Automation
-===============
+Gwen
+====
 
 > Visit the [Gwen home page](https://gweninterpreter.org/) for our user documentation and getting started guide
 
